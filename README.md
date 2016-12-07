@@ -1,2 +1,2 @@
 # hello-World
-first try
+I like code and math !
